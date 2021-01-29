@@ -1,0 +1,8 @@
+1. pip search < query >
+2. pip install[package_name]
+3. pip install[package_name] == =x.x.x
+4. pip list - -outdated
+5. pip install[package_name] - -upgrade
+
+# upgrade pip
+6. py - m pip install - U pip

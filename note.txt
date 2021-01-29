@@ -1,0 +1,20 @@
+
+1. Ctr + Z  + Enter || exit() || quit()
+- Back To the Terminal
+
+2. py stuff.py
+
+3. py -c print("hi"")
+
+4. pip install package
+
+5. py -t 
+- Code python in terminal
+
+6. watch method
+import math
+dir(math)
+
+7.
+
+
